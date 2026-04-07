@@ -59,7 +59,7 @@ It scans your own PC across 10 security categories and gives you a **score out o
 
 **Step 1 — Clone the repository:**
 ```bash
-git clone https://github.com/syed-chaos/sec-audit.git
+git clone https://github.com/syed-chaos/sec-auditsec-audit.git
 cd sec-audit
 ```
 
