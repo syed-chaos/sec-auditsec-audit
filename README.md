@@ -1,10 +1,27 @@
 # 🛡️ SEC AUDIT — System Security Auditor
 
-/ ___\ \ / / ____|  _ \       / ___| | | |  / \  / _ \/ ___| 
-\___ \\ V /|  _| | | | |     | |   | |_| | / _ \| | | \___ \ 
- ___) || | | |___| |_| |     | |___|  _  |/ ___ \ |_| |___) |
-|____/ |_| |_____|____(_)___(_)____|_| |_/_/   \_\___/|____/ 
-                       |_____|                              
+ _____ __   __ _____  _____ 
+
+/ ____|\ \ / /|  ___||  __ \
+
+| (___  \ V / | |__  | |  | |
+
+ \___ \  | |  |  __| | |  | |
+
+ ____) | | |  | |___ | |__| |
+
+|_____/  |_|  |_____||_____/ 
+
+
+  ____  _   _    _    ___  ____  
+
+ / ___|| | | |  / \  / _ \/ ___| 
+
+| |    | |_| | / _ \| | | \___ \ 
+
+| |___ |  _  |/ ___ \ |_| |___) |
+
+ \____||_| |_/_/   \_\___/|____/                    
 
 > **Made by SYED._.CHAOS**  
 > ⚠️ Use only on systems you own or have explicit permission to audit.
@@ -144,7 +161,7 @@ The author is **not responsible** for any misuse or damage caused by this tool.
 ## 👤 Author
 
 **SYED._.CHAOS**  
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@syed-chaos](https://github.com/syed-chaos)
 
 ---
 
