@@ -5,8 +5,8 @@
  / ____|\\ \\ / /|  ___||  __ \\ 
 | (___   \\ V / | |__  | |  | |
  \\___ \\   > <  |  __| | |  | |
- ____) | / . \\ | |___ | |__| |
-|_____/ /_/ \\_\\|_____||_____/ 
+ ____) | / .  | |___ | |__| |
+|_____/ /_/   | |_____||_____/ 
 
   ____  _   _    _    ___  ____  
  / ___|| | | |  / \\  / _ \\/ ___| 
@@ -59,7 +59,7 @@ It scans your own PC across 10 security categories and gives you a **score out o
 
 **Step 1 — Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/sec-audit.git
+git clone https://github.com/syed-chaos/sec-audit.git
 cd sec-audit
 ```
 
@@ -153,7 +153,7 @@ The author is **not responsible** for any misuse or damage caused by this tool.
 ## 👤 Author
 
 **SYED._.CHAOS**  
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@syed-chaos](https://github.com/syed-chaos)
 
 ---
 
